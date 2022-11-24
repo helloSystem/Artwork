@@ -9,7 +9,7 @@ Icons and other artwork used in [helloSystem](https://hellosystem.github.io/).
 
 ## Contributing
 
-Please look up the location of an icon in `elementary-xfce`, then create an icon in the corresponding location in `elementary-hello`.
+Please look up the location of an icon in `elementary-xfce`, then create an icon in the corresponding location in `elementary-hello`. When contributing icons, please also add a `.svg` in the `scalable` directory next to the various sizes of `.png` files.
 
 To quickly find the name for an icon (not its various symlinks), use something like
 
