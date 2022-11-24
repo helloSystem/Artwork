@@ -1,6 +1,6 @@
 # Artwork
 
-Icons and other artwork used in helloSystem.
+Icons and other artwork used in [helloSystem](https://hellosystem.github.io/).
 
 * `elementary-hello` holds icons specifically designed for helloDesktop. For conceptual human interface guidelines regarding helloSystem, please loosly refer to [ISBN 978-0-201-2216-4](https://dl.acm.org/doi/book/10.5555/573097).
 
