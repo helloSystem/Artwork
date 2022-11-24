@@ -10,3 +10,12 @@ Icons and other artwork used in [helloSystem](https://hellosystem.github.io/).
 ## Contributing
 
 Please look up the location of an icon in `elementary-xfce`, then create an icon in the corresponding location in `elementary-hello`.
+
+To quickly find the name for an icon (not its various symlinks), use something like
+
+```
+find ./elementary-xfce -type l -name '*trash*' -exec ls -lh {} \; | cut -d ">" -f 2 | sort | uniq
+(...)
+ user-trash-full.png
+ user-trash.png
+```
