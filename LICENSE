@@ -1,0 +1,10 @@
+Files: elementary-hello/*
+Copyright: 2020-22, helloSystem contributors
+License: BSD 2-clause. The full text of the BSD 2-clause License
+can be found at https://opensource.org/licenses/BSD-2-Clause.
+
+Files: elementary-xfce/usr/local/share/icons/*
+Copyright: 2008-11, Daniel Fore <Daniel.P.Fore@gmail.com>
+           2010-12, Simon Steinbeiß <ochosi@shimmerproject.org>
+License: GPL-2+. The full text of the GNU General Public License version 2
+can be found at https://www.gnu.org/licenses/old-licenses/gpl-2.0.html.
